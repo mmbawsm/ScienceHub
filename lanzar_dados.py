@@ -11,5 +11,5 @@ def lanzar_dados(amount, sides):
     return resultados
 
 if __name__ == "__main__":
-    lanzar_dados(5, 6)
+    lanzar_dados(5, 20)
 
